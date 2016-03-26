@@ -1,0 +1,27 @@
+{
+  "name": "show-terminal-cursor",
+  "version": "0.0.1",
+  "description": "Shows the terminal cursor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": "joegesualdo/show-terminal-cursor",
+  "keywords": [
+    "show",
+    "terminal",
+    "cursor",
+    "display"
+  ],
+  "author": {
+    "name": "Joe Gesualdo"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "dependencies": {
+    "control-sequence-introducer": "*"
+  }
+}
