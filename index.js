@@ -1,7 +1,9 @@
 "use strict";
 
+var csi = require("control-sequence-introducer");
+
 function showCursorString() {
-  return csi + "?25h"
+  return csi + "?25h";
 }
 
 function showCursor() {

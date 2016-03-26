@@ -1,6 +1,6 @@
 {
   "name": "show-terminal-cursor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shows the terminal cursor.",
   "main": "index.js",
   "scripts": {
